@@ -1,0 +1,15 @@
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.csprojAssemblyReference.cache
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.AssemblyInfo.cs
+C:\Users\Dxenu\Desktop\dotnet-api\bin\Debug\netcoreapp3.0\WebApp.exe
+C:\Users\Dxenu\Desktop\dotnet-api\bin\Debug\netcoreapp3.0\WebApp.deps.json
+C:\Users\Dxenu\Desktop\dotnet-api\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.json
+C:\Users\Dxenu\Desktop\dotnet-api\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.dev.json
+C:\Users\Dxenu\Desktop\dotnet-api\bin\Debug\netcoreapp3.0\WebApp.dll
+C:\Users\Dxenu\Desktop\dotnet-api\bin\Debug\netcoreapp3.0\WebApp.pdb
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.dll
+C:\Users\Dxenu\Desktop\dotnet-api\obj\Debug\netcoreapp3.0\WebApp.pdb
